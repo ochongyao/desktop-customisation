@@ -6,4 +6,4 @@ battery-report.bat: run this file on Windows and it will automatically generate 
 
 Folder Icons.icl is the Windows folder icons customisation pack that I use
 
-GlazeWM config.yaml is my Glaze Window Manager configuration (keybinds, shortcuts, etc)
+config.yaml is my GlazeWM configuration (keybinds, shortcuts, etc)
